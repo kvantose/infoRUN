@@ -28,7 +28,7 @@ export default defineConfig(() => {
       clean: true,
     },
     plugins: [
-      pluginOas({ validate: false }),
+      pluginOas({ validate: true }),
       pluginTs({
         output: {
           path: './types',
