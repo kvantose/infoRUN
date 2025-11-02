@@ -1,0 +1,1 @@
+{"type":"string","enum":["StudentTaskID","StudentID","SubTaskID","TaskID","SubjectID","VariantID","StartDate","ModifiedDate","CompletionDate","DeadlineDate","TypeVariant","YearVariant","NumberVarinat","DifficultyLevel","Attempts"],"title":"SortableFields","x-readme-ref-name":"SortableFields"}

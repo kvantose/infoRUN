@@ -1,0 +1,1 @@
+{"properties":{"PermissionID":{"type":"integer","title":"Permissionid"},"Name":{"type":"string","title":"Name"},"Description":{"type":"string","title":"Description"}},"type":"object","required":["PermissionID","Name","Description"],"title":"Permission","x-readme-ref-name":"Permission"}

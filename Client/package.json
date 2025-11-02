@@ -3,17 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "generate": "kubb generate"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
+    "@kubb/cli": "^4.4.1",
+    "@kubb/core": "^4.4.1",
+    "@kubb/plugin-client": "^4.4.1",
+    "@kubb/plugin-oas": "^4.4.1",
+    "@kubb/plugin-react-query": "^4.4.1",
+    "@kubb/plugin-ts": "^4.4.1",
+    "@kubb/plugin-zod": "^4.4.1",
     "@siberiacancode/reactuse": "^0.2.29",
     "date-fns": "^4.1.0",
     "gsap": "^3.13.0",
@@ -21,8 +25,8 @@
     "next": "15.4.6",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.7",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "sass": "^1.90.0",
     "zustand": "^5.0.7"
   },
@@ -35,21 +39,14 @@
     "@types/gsap": "^1.20.2",
     "@types/jest": "^30.0.0",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "jest": "^30.2.0",
     "jest-environment-jsdom": "^30.2.0",
     "tailwindcss": "^4",
     "ts-jest": "^29.4.5",
-    "ts-jest": "^29.4.5",
     "typescript": "5.9.2"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
   }
 }

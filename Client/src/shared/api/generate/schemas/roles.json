@@ -1,0 +1,1 @@
+{"properties":{"RoleID":{"type":"integer","title":"Roleid"},"Name":{"type":"string","title":"Name"}},"type":"object","required":["RoleID","Name"],"title":"Roles","x-readme-ref-name":"Roles"}

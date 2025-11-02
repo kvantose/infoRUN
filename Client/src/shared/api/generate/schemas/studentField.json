@@ -1,0 +1,1 @@
+{"type":"string","enum":["ID","Login","Email","Phone"],"title":"StudentField","x-readme-ref-name":"StudentField"}

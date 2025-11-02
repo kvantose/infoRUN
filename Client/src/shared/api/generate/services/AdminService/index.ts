@@ -1,0 +1,10 @@
+export { adminChangePasswordApiAdminStudentsStudentIdChangePasswordPost } from "./adminChangePasswordApiAdminStudentsStudentIdChangePasswordPost.ts";
+export { AdminService } from "./AdminService.ts";
+export { assignPermissionForRoleApiAdminRolesRoleIdAssignPermissionPost } from "./assignPermissionForRoleApiAdminRolesRoleIdAssignPermissionPost.ts";
+export { assignRoleToStudentApiAdminStudentsStudentIDAssignRolePost } from "./assignRoleToStudentApiAdminStudentsStudentIDAssignRolePost.ts";
+export { getLogsApiAdminStudentsLogsGet } from "./getLogsApiAdminStudentsLogsGet.ts";
+export { getLogsApiAdminStudentsStudentIDLogsGet } from "./getLogsApiAdminStudentsStudentIDLogsGet.ts";
+export { readAllStudentsApiAdminStudentsGet } from "./readAllStudentsApiAdminStudentsGet.ts";
+export { readPermissionApiAdminPermissionGet } from "./readPermissionApiAdminPermissionGet.ts";
+export { readPermissionsRoleApiAdminRolesRoleIdGet } from "./readPermissionsRoleApiAdminRolesRoleIdGet.ts";
+export { readRolesApiAdminRolesGet } from "./readRolesApiAdminRolesGet.ts";

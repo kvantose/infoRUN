@@ -1,0 +1,12 @@
+export type { VariantsQueryKey } from "./useVariants.ts";
+export type { VariantsExecVariantIDStudentIDQueryKey } from "./useVariantsExecVariantIDStudentID.ts";
+export type { VariantsExecVariantIDStudentIDSuspenseQueryKey } from "./useVariantsExecVariantIDStudentIDSuspense.ts";
+export type { VariantsSuspenseQueryKey } from "./useVariantsSuspense.ts";
+export type { VariantsVariantIDQueryKey } from "./useVariantsVariantID.ts";
+export type { VariantsVariantIDSuspenseQueryKey } from "./useVariantsVariantIDSuspense.ts";
+export { variantsQueryKey, variantsQueryOptions, useVariants } from "./useVariants.ts";
+export { variantsExecVariantIDStudentIDQueryKey, variantsExecVariantIDStudentIDQueryOptions, useVariantsExecVariantIDStudentID } from "./useVariantsExecVariantIDStudentID.ts";
+export { variantsExecVariantIDStudentIDSuspenseQueryKey, variantsExecVariantIDStudentIDSuspenseQueryOptions, useVariantsExecVariantIDStudentIDSuspense } from "./useVariantsExecVariantIDStudentIDSuspense.ts";
+export { variantsSuspenseQueryKey, variantsSuspenseQueryOptions, useVariantsSuspense } from "./useVariantsSuspense.ts";
+export { variantsVariantIDQueryKey, variantsVariantIDQueryOptions, useVariantsVariantID } from "./useVariantsVariantID.ts";
+export { variantsVariantIDSuspenseQueryKey, variantsVariantIDSuspenseQueryOptions, useVariantsVariantIDSuspense } from "./useVariantsVariantIDSuspense.ts";

@@ -1,0 +1,1 @@
+{"properties":{"ID":{"type":"integer","title":"Id"},"Name":{"type":"string","title":"Name"},"Description":{"type":"string","title":"Description"},"EnglishName":{"type":"string","title":"Englishname"}},"type":"object","required":["ID","Name","Description","EnglishName"],"title":"SubjectRead","x-readme-ref-name":"SubjectRead"}

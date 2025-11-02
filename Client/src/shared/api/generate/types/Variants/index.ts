@@ -1,0 +1,3 @@
+export type { VariantsQueryParams, Variants200, Variants422, VariantsQueryResponse, VariantsQuery } from "./Variants.ts";
+export type { VariantsExecVariantIDStudentIDPathParams, VariantsExecVariantIDStudentID200, VariantsExecVariantIDStudentID422, VariantsExecVariantIDStudentIDQueryResponse, VariantsExecVariantIDStudentIDQuery } from "./VariantsExecVariantIDStudentID.ts";
+export type { VariantsVariantIDPathParams, VariantsVariantID200, VariantsVariantID422, VariantsVariantIDQueryResponse, VariantsVariantIDQuery } from "./VariantsVariantID.ts";

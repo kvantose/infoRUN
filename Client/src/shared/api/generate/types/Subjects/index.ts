@@ -1,0 +1,2 @@
+export type { Subjects200, SubjectsQueryResponse, SubjectsQuery } from "./Subjects.ts";
+export type { SubjectsSubjectIDPathParams, SubjectsSubjectID200, SubjectsSubjectID422, SubjectsSubjectIDQueryResponse, SubjectsSubjectIDQuery } from "./SubjectsSubjectID.ts";

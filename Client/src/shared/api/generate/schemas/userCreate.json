@@ -1,0 +1,1 @@
+{"properties":{"email":{"type":"string","format":"email","title":"Email"},"login":{"type":"string","title":"Login"},"password":{"type":"string","title":"Password"},"phone":{"type":"string","title":"Phone"}},"type":"object","required":["email","login","password","phone"],"title":"UserCreate","x-readme-ref-name":"UserCreate"}

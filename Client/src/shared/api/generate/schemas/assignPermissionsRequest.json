@@ -1,0 +1,1 @@
+{"properties":{"permission_ids":{"items":{"type":"integer"},"type":"array","title":"Permission Ids"}},"type":"object","required":["permission_ids"],"title":"AssignPermissionsRequest","x-readme-ref-name":"AssignPermissionsRequest"}

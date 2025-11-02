@@ -1,0 +1,1 @@
+{"properties":{"identifier":{"type":"string","title":"Identifier"},"password":{"type":"string","title":"Password"}},"type":"object","required":["identifier","password"],"title":"AuthRequest","x-readme-ref-name":"AuthRequest"}
